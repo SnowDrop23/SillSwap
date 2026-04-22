@@ -85,7 +85,7 @@ Open your browser and go to: http://localhost/SKILL_EXCHANGE_PLATFORM/
 
 # >> Project Structure
 SKILL_EXCHANGE_PLATFORM
-│── admin
+│── admin/
     │── admin_header.php
     │── auth_check.php
     │── dashboard.php
