@@ -32,7 +32,7 @@ In traditional learning, costs can be a barrier. SkillSwap solves this by treati
 # UI Screenshots
 
 Login Page
-![image alt](https://github.com/SnowDrop23/SkillSwap/blob/77bb48f844e14c26eaa2ca716a9bba67b30e78a6/Screenshot%202026-04-22%20224606.png)
+![image alt](https://github.com/SnowDrop23/SkillSwap/blob/a2f34fab00923b6c6f46dd5936035c253e90d88a/login.png)
 
 Registration Page
 ![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/register.png)
