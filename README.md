@@ -59,7 +59,7 @@ Database
 ER Diagram
 ![image alt](https://github.com/SnowDrop23/SkillSwap/blob/4ecf7c3fa2437554146fcd0548970be28d167066/er%20diagram.jpeg)
 
-# Demo Video
+# 🎥 Demo Video
 [Watch Project Demo on Google Drive](https://drive.google.com/file/d/1oep-_wSXuKouBF_bWCxV0cRYm0W9YAui/view?usp=drive_link)
 
 
@@ -115,4 +115,4 @@ SKILL_EXCHANGE_PLATFORM
 ├── search.php
 ├── style.css
 └── README.md
-# >>Demo Video
+
